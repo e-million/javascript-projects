@@ -1,0 +1,53 @@
+body {
+  display: grid;
+  font-family: sans-serif;
+  background-color: rgb(75, 75, 255);
+  padding: 50px;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  padding-left: 750px;
+}
+
+#main-container {
+  background-color: black;
+  border: 15px black solid;
+  display: grid;
+  flex-wrap: wrap;
+  height: 960px;
+  width: 960px;
+  grid-template-columns:
+    1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr
+    1fr 1fr 1fr 1fr;
+  grid-template-rows:
+    1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr
+    1fr 1fr 1fr 1fr;
+
+  padding: 5px;
+  margin: 10px;
+}
+
+.grid-squares {
+  background-color: white;
+  height: auto;
+  width: auto;
+}
+
+button {
+  height: 50px;
+  width: 150px;
+  text-align: center;
+}
+
+#button-container {
+  text-align: center;
+  font-size: 25px;
+  width: 960px;
+  padding: 5px;
+  margin: 10px;
+}
+
+h1 {
+  width: 995px;
+  text-align: center;
+}
