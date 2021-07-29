@@ -1,0 +1,13 @@
+C:\Users\Eyass\source\repos\Test 1 Practical\bin\Debug\Test 1 Practical.exe.config
+C:\Users\Eyass\source\repos\Test 1 Practical\bin\Debug\Test 1 Practical.exe
+C:\Users\Eyass\source\repos\Test 1 Practical\bin\Debug\Test 1 Practical.pdb
+C:\Users\Eyass\source\repos\Test 1 Practical\bin\Debug\Test 1 Practical.xml
+C:\Users\Eyass\source\repos\Test 1 Practical\obj\Debug\Test 1 Practical.vbprojAssemblyReference.cache
+C:\Users\Eyass\source\repos\Test 1 Practical\obj\Debug\Test_1_Practical.Form1.resources
+C:\Users\Eyass\source\repos\Test 1 Practical\obj\Debug\Test_1_Practical.frmAddCustomer.resources
+C:\Users\Eyass\source\repos\Test 1 Practical\obj\Debug\Test_1_Practical.Resources.resources
+C:\Users\Eyass\source\repos\Test 1 Practical\obj\Debug\Test 1 Practical.vbproj.GenerateResource.cache
+C:\Users\Eyass\source\repos\Test 1 Practical\obj\Debug\Test 1 Practical.vbproj.CoreCompileInputs.cache
+C:\Users\Eyass\source\repos\Test 1 Practical\obj\Debug\Test 1 Practical.exe
+C:\Users\Eyass\source\repos\Test 1 Practical\obj\Debug\Test 1 Practical.xml
+C:\Users\Eyass\source\repos\Test 1 Practical\obj\Debug\Test 1 Practical.pdb
